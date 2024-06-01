@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [nesaralam.online](nesaralam.online)
 
-- 💬 Ask me about **HTML,CSS,JS,C,C++,MySQL**
+- 💬 Ask me about **MERN STACK,C,C++,Python,MySQL**
 
 - 📫 How to reach me **itsnesar@gmail.com**
 

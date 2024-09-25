@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Code2Grow**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **DSA** and **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [nesaralam.online](nesaralam.online)
 

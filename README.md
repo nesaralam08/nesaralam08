@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **MERN STACK,C,C++,Python,MySQL**
 
-- 📫 How to reach me **itsnesar@gmail.com**
+- 📫 How to reach me **itsnesar15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

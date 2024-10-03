@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nesaralam08&label=Profile%20views&color=0e75b6&style=flat" alt="nesaralam08" /> </p>
 
-- 🔭 I’m currently working on **Code2Grow**
+- 🔭 I’m currently working on **MERN**
 
-- 🌱 I’m currently learning **DSA** and **MERN Stack**
+- 🌱 I’m currently learning **DSA**
 
 - 👨‍💻 All of my projects are available at [nesaralam.online](nesaralam.online)
 

@@ -1,14 +1,14 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B30000,0d0d0d,1a1a2e&height=220&section=header&text=Nesar_Alam&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=%20Building%20the%20Web%2C%20One%20Commit%20at%20a%20Time&descSize=17&descAlignY=68&descColor=cccccc" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B30000,0d0d0d,1a1a2e&height=220&section=header&text=NESAR+ALAM&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=%20Building%20the%20Web%2C%20One%20Commit%20at%20a%20Time&descSize=17&descAlignY=68&descColor=cccccc" />
 
 </div>
 
 <!-- TYPING BANNER -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=30&duration=3000&pause=1000&color=E23636&center=true&vCenter=true&width=620&lines=CSE+Student+%7C+AI+%26+ML+Enthusiast+%F0%9F%95%B7%EF%B8%8F;Universe+is+simple;Your+Friendly+Neighborhood+Developer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=30&duration=3000&pause=1000&color=E23636&center=true&vCenter=true&width=620&lines=CSE+Student+%7C+AI+%26+ML+Enthusiast;Software+Developer;Your+Friendly+Neighborhood+Developer!)](https://git.io/typing-svg)
 
 </div>
   
